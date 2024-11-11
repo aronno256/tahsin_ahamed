@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1728929127 source:e:\oop lab\oop lab06\task01\220041256_task02lab06\src\coordinate.cpp
+	"Coordinate.h"
+	<cmath>
+
+1728928898 e:\oop lab\oop lab06\task01\220041256_task02lab06\include\coordinate.h
+
+1728930868 source:e:\oop lab\oop lab06\task01\220041256_task02lab06\main.cpp
+	<iostream>
+	<Coordinate.h>
+	<cstdlib>
+	<ctime>
+
